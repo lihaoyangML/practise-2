@@ -1,3 +1,3 @@
 # Hi world
 
-additional stuuf from new branch
+additional stuff from new branch
